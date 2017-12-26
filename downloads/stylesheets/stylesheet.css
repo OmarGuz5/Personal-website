@@ -1,0 +1,22 @@
+html {font-family:"SF Pro Text","Myriad Set Pro","SF Pro Icons","Apple Legacy Chevron","Helvetica Neue","Helvetica","Arial",sans-serif}
+
+footer {
+	margin:0px auto!important;
+	padding:0px auto!important;
+	border-top: 1px solid black;
+	text-align:center;	
+	height:200px!important;
+	
+}
+
+.socialMedia {
+	float:center;
+	margin:0 auto;
+	padding:0 auto;
+	width:260px;
+}
+.sm {
+	float:left;
+	padding:10px;
+	margin:0 auto;
+}

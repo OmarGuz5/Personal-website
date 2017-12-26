@@ -1,0 +1,88 @@
+#banner{
+    width: 100%;
+	height:auto;
+}
+.imgContainer {
+    position: relative;
+    text-align: center;
+    color: white;
+	font-size:10vw;
+}
+
+.centered {
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+section {
+	text-align:center;
+	border: 1px solid black;
+	border-radius: 2px;
+	padding:15px;
+	margin: 30px auto;
+	max-width: 700px;
+	min-width: 200px;
+	width:80%;
+	background-color:white;
+	height: auto;
+}
+
+
+article {
+	text-align:left;
+	border-top: 1px solid black;
+	padding:10px !important;
+	margin: 10px auto;
+	width:90%;
+	height:auto;
+	font-size:1em;
+}
+
+div.space {
+	height:50px!important;
+	margin:0px auto!important;
+	padding:0px!important;
+	width:100%!important;
+}
+
+
+section header {
+	text-align: 	center;
+	font-size: 25px;
+}
+
+#title {
+	text-align:center;
+	background-color: green;
+	text-decoration-color: white;
+	color: white;
+	width: 100%;
+	height: 200px;
+	margin:0px auto !important;
+}
+html {font-family:"SF Pro Text","Myriad Set Pro","SF Pro Icons","Apple Legacy Chevron","Helvetica Neue","Helvetica","Arial",sans-serif}
+
+footer {
+	margin:0px auto!important;
+	padding:0px auto!important;
+	border: 1px solid black;
+	text-align:center;	
+	height:200px!important;
+	
+}
+
+.socialMedia {
+	float:center;
+	margin:0 auto;
+	padding:0 auto;
+	width:260px;
+}
+.sm {
+	float:left;
+	padding:10px;
+	margin:0 auto;
+}
+
